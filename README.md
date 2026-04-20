@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building projects and contributing to open source**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **All about Agentic AI**
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
